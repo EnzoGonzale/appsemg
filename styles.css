@@ -1,0 +1,28 @@
+body{
+    font-family: 'Coming Soon', cursive;
+    font-size: 18px;
+}
+.h1{
+    color: orange;
+    margin-top: 30px;
+    font-size: 80px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;
+}
+.fc5m{
+    font-family: 'Architects Daughter', cursive;
+}
+.TM{
+    margin-top: 60px;
+}
+#btnstop{
+    background-color: orange;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+#start2{
+    color: white;
+}
+a img{display: none;}
