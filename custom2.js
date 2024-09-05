@@ -48,7 +48,7 @@ function Deleteo(){
 //RUTINA MATUTINA
 var rminputtext = document.getElementById("rminput");
 
-var rmoutputtxt = document.querySelector('.rmoutput');
+var rmoutputtxt = document.getElementById('rmoutput');
 
 function saveRM(){
     localStorage.setItem("rmtxt", rminputtext.value);
